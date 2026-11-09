@@ -199,7 +199,7 @@ Before setting up the application, ensure that you have:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/chirimopellias-hub/Asset-Tracking-System.git
 ```
 
 **2. Open the project**
